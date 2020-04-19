@@ -1,4 +1,4 @@
-#Independent Sample T-Test#
+
 
 #Import the data
 runba=read.csv("./run.ba.csv",
