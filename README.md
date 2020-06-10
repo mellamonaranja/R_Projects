@@ -1,16 +1,16 @@
 # Running data Prediction
 
-Predict correlation between running time and calory, cadence.
-Marathon effect to run.
-Season effect to run.
+- Predict correlation between running time and calory, cadence.
+- Marathon effect to run.
+- Season effect to run.
 
 ## Overview
 
 It provides running performance data under the various environment.
 
 ## Data
-Tracked dairy running records by Garmin from 2015 to 2020.
-Included two Marathon event records which are 2017 Rotterdam and 2019 Osaka.
+- Tracked dairy running records by Garmin from 2015 to 2020.
+- Included two Marathon event records which are 2017 Rotterdam and 2019 Osaka.
 
 ## Explore
 
