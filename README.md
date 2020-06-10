@@ -8,7 +8,11 @@ Season effect to run.
 
 It provides running performance data under the various environment.
 
-### Explore
+### Data
+Tracked dairy running records by Garmin from 2015 to 2020.
+Included two Marathon event records which are 2017 Rotterdam and 2019 Osaka.
+
+#### Explore
 
 <img width="1680" alt="1" src="https://user-images.githubusercontent.com/55770526/84010225-580f7380-a9af-11ea-8e63-183ebab75ec4.png">
 <img width="1680" alt="2" src="https://user-images.githubusercontent.com/55770526/84010284-6cec0700-a9af-11ea-82ef-3b4c8a5e1d8c.png">
